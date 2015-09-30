@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 趙氏易說
-#+DATE: 2015-09-23 09:34:29
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 21:54:51.226670
+#+PROPERTY: ID KR1a0039
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1a0039_WYG_004-1a>¶
 欽定四庫全書¶
 　易説卷四　　　　　　宋　趙善譽　撰¶
@@ -482,4 +484,3 @@
 <pb:KR1a0039_WYG_004-27b>¶
 濟坎離之反對而成也未濟則必濟既濟則復至于未¶
 濟消息盈虚之理循環无窮此所以為易也¶
-

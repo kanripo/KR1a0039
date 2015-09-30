@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 趙氏易說
-#+DATE: 2015-09-23 09:34:29
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 21:54:51.187712
+#+PROPERTY: ID KR1a0039
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1a0039_WYG_002-1a>¶
 欽定四庫全書¶
 　易説卷二　　　　　　宋　趙善譽　撰¶
@@ -391,4 +393,3 @@
 絶之禍也然則先儒謂所親近之人所由之道所主之¶
 <pb:KR1a0039_WYG_002-22b>¶
 事皆麗也可不謹㦲¶
-
